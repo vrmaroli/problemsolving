@@ -2,7 +2,7 @@
 	Problem code: FIBOSUM
 	URL: http://www.spoj.com/problems/FIBOSUM/
 	Author: Vishnu Ramesh Maroli
-	Date: 1st October 2017
+	Date: 2nd October 2017
 */
 
 #include <iostream>
