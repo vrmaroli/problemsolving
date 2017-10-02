@@ -24,6 +24,7 @@
 #define vs vector<string>
 #define pb push_back
 #define mp make_pair
+#define pi acos(-1.0)
 
 using namespace std;
 
