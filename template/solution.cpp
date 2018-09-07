@@ -1,9 +1,8 @@
-/*
-	Problem code:
-	URL:
-	Author: Vishnu Ramesh Maroli
-	Date:
-*/
+/* Problem code:
+ * URL:
+ * Author: Vishnu Ramesh Maroli
+ * Date:
+ */
 
 #include <iostream>
 #include <iomanip>
@@ -29,5 +28,5 @@
 using namespace std;
 
 int main() {
-	return 0;
+  return 0;
 }
